@@ -1,0 +1,57 @@
+{
+  "plantillas": {
+    "src": "assets/img/plantillas.jpg",
+    "title": "Best Orthopedic Work Boots",
+    "creator": "gm.esthermax",
+    "creator_url": "https://www.flickr.com/photos/29971610@N02",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/29971610@N02/27892778345",
+    "source": "flickr"
+  },
+  "pisada": {
+    "src": "assets/img/pisada.jpg",
+    "title": "MOTS-c regulates aging metabolism and healthspan",
+    "creator": "Authors of the study: Joseph C. Reynolds, Rochelle W. Lai, Jonathan S. T. Woodhead, James H. Joly, Cameron J. Mitchell, David Cameron-Smith, Ryan Lu, Pinchas Cohen, Nicholas A. Graham, Bérénice A. Benayoun, Troy L. Merry & Changhan Lee",
+    "creator_url": "https://www.flickr.com/photos/32104790@N02",
+    "license": "by",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=99836400",
+    "source": "wikimedia"
+  },
+  "hero": {
+    "src": "assets/img/hero.jpg",
+    "title": "2017.07.05 This Week at Center for Total Health, Washington, DC USA 2-2",
+    "creator": "tedeytan",
+    "creator_url": "https://www.flickr.com/photos/22526649@N03",
+    "license": "by-sa",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/22526649@N03/35609103251",
+    "source": "flickr"
+  },
+  "cuidado": {
+    "src": "assets/img/cuidado.jpg",
+    "title": "Nail art unhas decoradas",
+    "creator": "monibela",
+    "creator_url": "https://www.flickr.com/photos/31824034@N02",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/31824034@N02/4641993395",
+    "source": "flickr"
+  },
+  "pie": {
+    "src": "assets/img/pie.jpg",
+    "title": "Male barefooter letting his feet rest on a patch of moss",
+    "creator": "Barefootboy2005",
+    "creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Barefootboy2005&action=edit&redlink=1",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+    "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=181642563",
+    "source": "wikimedia"
+  }
+}
